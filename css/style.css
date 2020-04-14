@@ -1,0 +1,20 @@
+/*
+Author = Hubertus Rino Augenio
+Type = text/css
+*/
+
+#navbar{
+    text-align: center;
+}
+
+#navbar img{
+    width: 300px;
+    height: 400px;
+}
+
+#body{
+    width: 390px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
